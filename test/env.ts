@@ -1,0 +1,1 @@
+export const requestTimeout = !!process.env.TEST_LOW_CONNECTION ? 15000 : 2000

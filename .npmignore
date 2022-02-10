@@ -1,0 +1,6 @@
+lib/
+mangas-helper.json
+example/
+.vscode/
+.travis.yml
+.nycrc

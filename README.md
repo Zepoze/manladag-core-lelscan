@@ -7,6 +7,7 @@
 
 # Lelscans's Manladag Core
 Library for [Manladag Core](https://github.com/Zepoze/manladag-core#manladags-lib)
+From the website [https://lelscans.net/](https://lelscans.net/)
 
 # Example 
 simple use
@@ -71,3 +72,4 @@ LelscanCore.getLastChapter(key).then((lastChap) => {
 })
 
 ~~~
+> In this example the last two chapters of chapitre will be downloaded in `dirname`
