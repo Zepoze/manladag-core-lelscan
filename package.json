@@ -6,7 +6,7 @@
   "types": "./dist/index.d.ts",
   "scripts": {
     "build": "tsc",
-    "prepublishOnly": "npm build",
+    "prepublishOnly": "npm run build",
     "test": "cross-env TS_NODE_FILES=true mocha --exit --require ts-node/register --colors test/**/*.ts",
     "test:low-connection": "cross-env TS_NODE_FILES=true TEST_LOW_CONNECTION=true mocha --exit --require ts-node/register --colors test/**/*.ts",
     "cover": "nyc npm run test:low-connection",
