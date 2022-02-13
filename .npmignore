@@ -4,3 +4,6 @@ example/
 .vscode/
 .travis.yml
 .nycrc
+.nyc_output/
+test/
+coverage/
