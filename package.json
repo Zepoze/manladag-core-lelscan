@@ -23,7 +23,7 @@
   },
   "homepage": "https://github.com/Zepoze/manladag-core-lelscan#readme",
   "devDependencies": {
-    "@manladag/core": "^0.0.1",
+    "@manladag/core": "^0.1.0",
     "@types/adm-zip": "^0.4.34",
     "@types/chai": "^4.3.0",
     "@types/jsdom": "^16.2.14",
@@ -43,7 +43,7 @@
     "@manladag/core": ">=0.0.1"
   },
   "peerDependenciesMeta": {
-    "@manladag/core":{
+    "@manladag/core": {
       "optional": true
     }
   }

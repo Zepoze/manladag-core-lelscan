@@ -6,8 +6,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+### Changed
+- Update @manladag/core dependency to v0.1.0
+
 ### Fixed
 - .npmignore entries
+- npm audit fix
 
 ## 0.0.1 2022-02-11
 
