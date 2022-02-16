@@ -107,5 +107,5 @@ dist
 
 mangas-helper.json
 
-example/
-!example/index.ts
+example/*
+!/example/index.ts

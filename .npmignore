@@ -7,3 +7,4 @@ example/
 .nyc_output/
 test/
 coverage/
+example/
